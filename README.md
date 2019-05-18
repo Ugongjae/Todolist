@@ -11,7 +11,7 @@ npm start
 Then, you can make your local todolist site. <http://localhost:3000/>
 
 
-If you want to use your database, Change connection in 'routes/router.js' file.
+If you want to use your database(mysql), Change connection in 'routes/router.js' file.
 ```
 CREATE TABLE `your schema's name`.`todolist` (
   `id` INT NOT NULL AUTO_INCREMENT,
