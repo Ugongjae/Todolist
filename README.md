@@ -8,7 +8,7 @@ Second, Clone this repository and execute command
 ```
 npm start
 ```
-Then, you can make your local todolist site. <localhost:3000/>
+Then, you can make your local todolist site. <http://localhost:3000/>
 
 
 If you want to use your database, Change connection in 'routes/router.js' file.
