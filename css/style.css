@@ -40,9 +40,9 @@
 		font-style: italic;
 	}
 
-	p, pre {
+	p {
 		margin: 0 0 2em 0;
-		word-break: break-all;
+		white-space: pre-line;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
