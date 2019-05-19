@@ -12,6 +12,8 @@ Then, you can make your local todolist site. <http://localhost:3000/>
 
 
 If you want to use your database(mysql), Change connection in 'routes/router.js' file.
+
+Make your own table using this code.
 ```
 CREATE TABLE `your schema's name`.`todolist` (
   `id` INT NOT NULL AUTO_INCREMENT,
